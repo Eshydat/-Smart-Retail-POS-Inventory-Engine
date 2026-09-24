@@ -22,3 +22,5 @@ Responsive UI: Mobile-friendly, high-performance interface optimized for fast ch
 
 ## 4. Portfolio Impact
 This project demonstrates my ability to handle the entire data lifecycle—from system design and transactional data capture to structured storage and analytics preparation—proving my readiness to manage real-world enterprise data workflows.
+
+![image alt](https://github.com/Eshydat/-Smart-Retail-POS-Inventory-Engine/blob/92dcc423156d2aed65c79ed5a4edacb98aed9f1c/Oyes%20App.jpg)
